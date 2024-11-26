@@ -1,0 +1,7 @@
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\Web1_Prueba.exe
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\appsettings.Development.json
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\appsettings.json
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\Web1_Prueba.dll
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\Web1_Prueba.deps.json
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\Web1_Prueba.runtimeconfig.json
+C:\Users\djden\source\repos\Web1_Prueba\Web1_Prueba\obj\Docker\publish\Web1_Prueba.pdb

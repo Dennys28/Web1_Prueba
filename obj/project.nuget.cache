@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZXs9R0orM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djden\\source\\repos\\Web1_Prueba\\Web1_Prueba\\Web1_Prueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djden\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
